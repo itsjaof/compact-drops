@@ -1,0 +1,7 @@
+main: dev.twoz.compactdrops.Core
+name: compact-drops
+author: Twoz
+version: 1.0.0-BETA
+commands:
+  compactardrops:
+    description: Comando para compactar os drops
